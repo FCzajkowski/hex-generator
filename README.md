@@ -1,1 +1,1 @@
-# Learning svelte :D, wish me luck
+did it guys
